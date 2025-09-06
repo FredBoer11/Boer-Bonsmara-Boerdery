@@ -1,0 +1,21 @@
+export const definitions = {
+  farmName: "The registered or proposed name for the farming operation.",
+  farmLocation: "The physical location or region of the farm, which influences climate, logistics, and land value.",
+  totalFarmSize: "The entire land area of the farm in hectares (ha), including both grazing and non-grazing areas.",
+  conservationPercentage: "The percentage of the total farm size that is intentionally set aside for conservation, wildlife habitat, or non-agricultural use.",
+  regionalLSUPerHectare: "The recommended number of Large Stock Units (LSU) that can be sustainably carried per hectare in this specific region. This is a key measure of the land's carrying capacity.",
+  foundationCows: "The initial number of breeding cows that will form the foundation of the new stud herd.",
+  foundationBulls: "The initial number of bulls purchased for the foundation herd to ensure genetic diversity and quality.",
+  weaningPercentage: "The percentage of cows exposed to a bull that successfully wean a calf each year. A critical indicator of herd fertility, health, and management.",
+  cowReplacementRate: "The percentage of the breeding herd that is culled (removed) and replaced by younger heifers each year. This is essential for maintaining a healthy age structure and driving genetic progress.",
+  studBullSalePrice: "The average expected sale price for a registered, high-quality stud bull sold for breeding purposes to other farmers.",
+  studHeiferSalePrice: "The average expected sale price for a registered, high-quality stud heifer (young female) sold for breeding purposes.",
+  cullCowSalePrice: "The average price received for a cow that is removed (culled) from the breeding herd due to age, performance, or other factors.",
+  avgWeaningWeight: "The average weight in kilograms (kg) of a calf at the time of weaning (typically 6-8 months old). This directly impacts the sale price of weaners.",
+  commercialWeanerPricePerKg: "The price per kilogram (R/kg) received for weaner calves that are sold to the commercial market (e.g., feedlots) rather than kept for breeding.",
+  monthlyLabourCost: "The total monthly cost for all farm labour, including salaries, wages, benefits, and statutory contributions.",
+  infrastructureSetupBudget: "The initial, once-off capital budget allocated for setting up or upgrading essential farm infrastructure like fences, water points, handling facilities, and sheds.",
+  livestockStartupCost: "The initial, once-off capital cost of purchasing the foundation herd (cows and bulls). This is a major startup expense.",
+  vetCostPerHead: "The average annual cost of veterinary services, medicine, vaccines, and parasite control per animal in the herd.",
+  feedCostPerHead: "The average annual cost for supplementary feed, licks, and minerals per animal in the herd. This is crucial for maintaining animal condition, especially during dry seasons."
+};

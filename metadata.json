@@ -1,0 +1,5 @@
+{
+  "name": "Boer Bonsmara Boerdery Proposal Builder",
+  "description": "An interactive web proposal for a Bonsmara cattle farming operation. It allows for editable inputs, dynamic calculations, and financial forecasting to generate an investment-ready proposal.",
+  "requestFramePermissions": []
+}
